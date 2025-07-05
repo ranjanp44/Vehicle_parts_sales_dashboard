@@ -1,4 +1,4 @@
-# Vehicle_parts_sales_dashboard
+# Classic_models_dashboard
 Developed an interactive Vehicle Sales Dashboard using Power BI to analyze and visualize sales performance across various regions, vehicle types, and time periods. The dashboard provides key insights into:
 
 Total sales trends over time (monthly/yearly).
